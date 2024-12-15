@@ -1,2 +1,3 @@
 # first-repo
-this is the first git repo
+this is the first git repository 
+by ayush agrawal
